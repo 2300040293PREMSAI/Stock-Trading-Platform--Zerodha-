@@ -5,4 +5,6 @@ Designed dynamic UI features including charts, live price updates, and interacti
 REST APIs.
 Created RESTful APIs for CRUD operations on holdings, watchlists, and transactions, ensuring scalable and
 maintainable architecture.
+
+
 Tech Stack: React.js, Node.js, Express.js, MongoDB, Chart.js, JWT, REST APIs, AWS
